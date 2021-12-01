@@ -53,3 +53,14 @@
 .lookOutlined-3sRXeN.colorRed-1TFJan, .lookOutlined-3sRXeN.colorRed-1TFJan {
     color: var(--ping) !important;
 }
+
+h1 {
+    text-shadow: 0px 0px 5px;
+}
+h2 {
+    text-shadow: 0px 0px 5px;
+}
+h3 {
+    text-shadow: 0px 0px 5px;
+}
+
